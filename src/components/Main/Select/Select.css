@@ -1,0 +1,18 @@
+.container {
+    position: relative;
+  }
+
+select{
+  transition: 0.2s;
+  padding: 0.25rem 1rem;
+  width: 200px;
+  border: 1px solid #cbd5e0;
+  border-radius: 8px;
+  box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+select:hover {
+    scale: 1.15;
+    transition: 0.2s;
+  }

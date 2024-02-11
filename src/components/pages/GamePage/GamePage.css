@@ -1,0 +1,10 @@
+.game-page{
+    margin: 20px;
+    height: calc(100vh - 40px);
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: calc(50vh - 60px);
+}
